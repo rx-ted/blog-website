@@ -1,0 +1,52 @@
+.pinglun-box {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#pinglun-content {
+    width: 90%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 25px;
+}
+
+#pinglun-name {
+    width: 20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 25px;
+}
+
+.pinglun-input {
+    margin-left: 10px;
+}
+
+.pinglun-input>b {
+    margin: 20px;
+    line-height: 50px;
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+#send {
+    width: 80px;
+    height: 30px;
+    margin-top: 15px;
+    float: right;
+}
+
+#pinglun_content {
+    display: inline-block;
+    width: 1200px;
+    margin-left: 10px;
+    background: rgba(0, 0, 0, 0.015);
+}
+
+#pinglun_content>p>b {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+hr {
+    border-color: rgba(0, 0, 0, 0.1);
+}
