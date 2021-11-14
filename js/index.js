@@ -35,9 +35,7 @@ function loadhtml() {
 `;
         }
         $('.blogs').html(html);
-
     })
-
 }
 
 $(() => {
